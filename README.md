@@ -1,6 +1,6 @@
 # AI Validation Copilot
 
-## 📌 Overview
+## Overview
 
 AI Validation Copilot is a prototype web application built for manufacturing industries.
 
@@ -8,7 +8,7 @@ The application helps validation engineers analyze bearing validation parameters
 
 ---
 
-## 🚀 Features
+## Features
 
 - Validation data entry
 - Historical validation comparison
@@ -19,7 +19,7 @@ The application helps validation engineers analyze bearing validation parameters
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -27,7 +27,7 @@ The application helps validation engineers analyze bearing validation parameters
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 AI Validation Copilot/
 
@@ -43,7 +43,7 @@ AI Validation Copilot/
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 - Python Backend
 - SQL Database
